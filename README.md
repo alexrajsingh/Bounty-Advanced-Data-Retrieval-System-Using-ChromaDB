@@ -80,7 +80,7 @@ You can add more data set to  data section and query it.
 Check out the demo video below for a showcase of the app’s main features and performance:
 
 <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
-    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="App Demo Video" style="width:400px; height:400px;">
+    <img src="https://github.com/alexrajsingh/Bounty-Advanced-Data-Retrieval-System-Using-ChromaDB/blob/main/videos.png" alt="App Demo Video" style="width:250px; height:200px;">
 </a>
 
 In this video, you’ll see how easy it is to input queries and receive precise, relevant medical information in seconds.
