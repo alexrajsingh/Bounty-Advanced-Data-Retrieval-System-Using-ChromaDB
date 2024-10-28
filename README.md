@@ -27,8 +27,8 @@ This project demonstrates a robust retrieval system using ChromaDB for accurate 
 1. **Clone the Repository** 📂
 
    ```bash
-   git clone https://github.com/alexrajsingh/Bounty-Advanced-Image-and-Data-Retrieval-System-Using-ChromaDB.git
-   cd Bounty-Advanced-Image-and-Data-Retrieval-System-Using-ChromaDB
+   git clone https://github.com/alexrajsingh/Bounty-Advanced-Data-Retrieval-System-Using-ChromaDB.git
+   cd Bounty-Advanced-Data-Retrieval-System-Using-ChromaDB
    ```
 
 2. **Create and Activate a Virtual Environment** 🧪
