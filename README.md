@@ -79,7 +79,7 @@ You can add more data set to  data section and query it.
 
 Check out the demo video below for a showcase of the app’s main features and performance:
 
-<a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
+<a href="https://youtu.be/Hg3I4zp_X4U?si=0TlUu6d16j_3lX3x" target="_blank">
     <img src="https://github.com/alexrajsingh/Bounty-Advanced-Data-Retrieval-System-Using-ChromaDB/blob/main/videos.png" alt="App Demo Video" style="width:250px; height:200px;">
 </a>
 
