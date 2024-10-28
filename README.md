@@ -119,7 +119,7 @@ Enhanced embedding generation (in `embeddings.py`) improved retrieval accuracy b
 2. **Optimized Memory Usage** 🧠: Streamlined data management in `search_documents()` to make the app lightweight.
 3. **Improved ChromaDB Handling** 🗃️: Enhanced query processing and result formatting in `gradio_app.py` ensure smooth user interactions.
 
-
+---
 ## 📂 Repository Structure
 
 ```plaintext
